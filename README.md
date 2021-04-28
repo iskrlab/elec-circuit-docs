@@ -6,7 +6,7 @@
 
 
 ## チュートリアル
-* [sample01](./pages/sample01.md)
+* [チュートリアル](./pages/tutorial.md)
 
 ##  電気情報工学実験第一
 
