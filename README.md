@@ -9,18 +9,17 @@
 * [チュートリアル](./pages/tutorial.md)
 
 ##  電気情報工学実験第一
-* [チュートリアル](./pages/tutorial.md)
 ###  トランジスタ
-* [チュートリアル](./pages/tutorial.md)
+* [チュートリアル](./pages/exp_transistor.md)
 ###  演算増幅器とシングルスロープADC
-* [チュートリアル](./pages/tutorial.md)
+* [チュートリアル](./pages/exp_adc.md)
 
 ##  LSI回路設計Ⅰ
-* [チュートリアル](./pages/tutorial.md)
+* [チュートリアル](./pages/lsi1.md)
 ##  LSI回路設計Ⅱ　　
-* [チュートリアル](./pages/tutorial.md)
+* [チュートリアル](./pages/lsi2.md)
 ##  よくある質問  
-* [チュートリアル](./pages/tutorial.md)
+* [チュートリアル](./pages/question.md)
 ## 問い合わせ
 各授業で案内されているTAに連絡してください。
 サイトに関する質問は以下アドレスにお願いします。  
