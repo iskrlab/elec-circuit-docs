@@ -3,9 +3,17 @@
 
 ## 追加したICモデル（オペアンプ等）が出てこない
 ![image](https://user-images.githubusercontent.com/39611941/118907502-969d0480-b95a-11eb-82ee-f3cb7d63a8a5.png)
+
 正常にモデルが追加できていれば上記のように`Component`にモデル(NJM4580)が追加されます。
 追加できていない場合はいくつか原因があります。
 
+## パス確認
+![image](https://user-images.githubusercontent.com/39611941/118908071-a49f5500-b95b-11eb-8eee-d8dc0c3f0183.png)
+
+Windowsではデフォルトで`PC>ドキュメント>LTspiceXVII`のライブラリを参照しています。
+こちらに追加ファイルを入れたかどうか確認して下さい。
+
+## Refresh
 OS別にだが下記コマンドをクリック。またLTSpice自体を再起動しても良いです。
 ### Windows
 `tools` →`sync release`
