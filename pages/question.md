@@ -44,5 +44,5 @@ windowsならばデフォルトで`C:\Users\username\Documents\LTspiceXVII`
 
 ##  モデルが何もなく、素子が置けない
 至急TAにメールにて連絡してください(連絡先は資料の最終ページにあります）。
-cmp,sub,libフォルダのzipファイルを送ります。
-``
+`cmp,sub,lib`フォルダのzipファイルを送ります。
+
